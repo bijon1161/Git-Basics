@@ -1,0 +1,6 @@
+git commit --amend -m "New commit message."
+git push --force <remoteName> <branchName>
+
+//Example:
+git commit --amend -m "After Section 14,Type Conversion,TimeStamp=4.08.00hrs"
+git push --force https://github.com/bijon1161/JS_Tutorial main
