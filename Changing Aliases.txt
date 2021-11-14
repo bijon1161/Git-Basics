@@ -1,0 +1,6 @@
+echo "alias ga='git add .'" >> ~/.bash_profile
+echo "alias gc='git commit'" >> ~/.bash_profile
+echo "alias gp='git push'" >> ~/.bash_profile
+
+
+//after doing this simply reopen bash window
