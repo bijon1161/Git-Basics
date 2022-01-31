@@ -1,0 +1,14 @@
+Step 01:
+first view remotes
+
+git remote -v
+
+Step 02:
+remove remote
+
+git remote rm origin
+
+Step 03:
+add remote
+
+git remote add origin url
